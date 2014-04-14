@@ -1,3 +1,5 @@
+God gives every bird its food, but He does not throw it into its nest.
+
 * 从0开始
 
 1.  会不会Python？或者至少一们编程语言。
@@ -14,12 +16,9 @@ udacity，cousera 上上课。
 
 stanford db class, 最经典的课程。
 
+3. 会不会，web framework？ 再花三个月，学个mvc web framework。
 
-3，会不会，web framework？ 再花三个月，学个mvc web framework。
-
-
-4，可以做找工作的准备了。
-
+4. 可以做找工作的准备了。
 
 写写基本的算法题，网上找职位，投简历，等面试，去工作。
 
@@ -30,21 +29,20 @@ stanford db class, 最经典的课程。
 
 * 身份问题怎么解决？
 
- + a. 在读博士 ，毕业还早着呢。
++ a. 在读博士 ，毕业还早着呢。
 
 先1-4，然后拿master 走人，用master的opt找cs的工作。
-
 
 说的简单？ 我读博，变态老板整天催着做实验，还要门门拿A，怎么有可能学1-3？ 那
 就耗到毕业做postdoc吧。你当初选了生物，现在多努力，亡羊补牢吧。
 
 据说，必须拿本专业的offer才能有opt啊？ 不是的。
 
- + b. postdoc，
++ b. postdoc，
 
 拿到绿卡为先，有时间先学着.
 
- + c. 有身份的大叔大妈。
++ c. 有身份的大叔大妈。
 
 年龄大，找到找不到啊？ 你学会东西就行，公司当然想要年轻的，生物PI找postdoc都
 知道要找年轻力状的，公司也不傻。但是，你学会了东西，能完成任务，公司又招不够
@@ -84,40 +82,27 @@ jobhunting版那些晒offter的，多是cs科班，本科加硕士六年，10万
 你学一年5，6万，那个行业还能这样？
 
 
-以上多是根据我个人经验整理，欢迎补充。部分问题是源于版友给我的站内信，在此表
-示感谢。
-
-另外，mitbbs是老站，很多功能不好，请大家提问前多看旧帖。
-
-God gives every bird its food, but He does not throw it into its nest.
-
-
-** FAQ:
+* FAQ:
 
 
 ** 从０开始
 
-
 Q:我该学那个语言好？
-
-A：Python。
+- A：Python。
 
 Q：我听说过很多语言，人家不都是学C，C++，java 么？
-
-A： 如果你觉得好，就去学好了。争哪个语言好，可以争个半年。你不确定，就Python．
+- A： 如果你觉得好，就去学好了。争哪个语言好，可以争个半年。你不确定，就Python．
 
 Q：我是不是该学C++？
-
-A：不要再问我任何语言选择的问题！
+- A：不要再问我任何语言选择的问题！
 
 
 Q： 我学Python，也想上online 课程，有没有推荐？
-
-A：coursera 上的intro to computer science 之类的课程。这类课程一般是cs 的入门课，也就是说正常的高中毕业生都应该能跟的上。
+- A：coursera 上的intro to computer science 之类的课程。这类课程一般是cs 的入门课，也就是说正常的高中毕业生都应该能跟的上。
 
 
 Q：我听说两本关于Python的书，A 和B， 哪个好？该看哪一本？
-Ａ：amazon 看书评就知道哪个好了。两本都要看。一般说来，我不犹豫哪个书好，反
+- Ａ：amazon 看书评就知道哪个好了。两本都要看。一般说来，我不犹豫哪个书好，反
 正就那么点东西。就好比，一个橘子和一个苹果，吃哪一个好呢？都吃。
 
 
@@ -125,17 +110,15 @@ Q：我听说两本关于Python的书，A 和B， 哪个好？该看哪一本？
 
 
 Q：我想上个master，上哪个好？
-
-A： 我知道的有三个选择，Geogia Tech 的online cs， ITU，还有个East ．．待补充。
+- A： 我知道的有三个选择，Geogia Tech 的online cs， ITU，还有个East ．．待补充。
 
 Q:  Geogia Tech online cs?
-
-A: http://www.omscs.gatech.edu/
+- A: http://www.omscs.gatech.edu/
 这个项目不要G，要T，没有硬性的prequisite 的课程要求，但是需要你有相关背景。
 据我个人观察，比一般的州立大学要求略低，但也不是你交钱就上。
 
 Q: ITU?
-A: http://itu.edu/
+- A: http://itu.edu/
 
 这个是一个老中办的大学。据wiki上说，频临破产，后因为入学就给full time cpt，
 而起死回生。
@@ -144,29 +127,34 @@ A: http://itu.edu/
 
 
 Q: East Stroudsburg Univ
-A: 参考 http://www.mitbbs.com/clubarticle_t/biojailbreak/128875.html
+- A: 参考 http://www.mitbbs.com/clubarticle_t/biojailbreak/128875.html
 
 Q： 还有别的性价比较好的ms program么？
-A： 肯定是有的，这个就得靠你去搜索了，如果你找到了，请分享。
+- A： 肯定是有的，这个就得靠你去搜索了，如果你找到了，请分享。
 
 
 ** 课程选择
 
 Q: 哪些免费课程可以上？
-A: Coursera，Edx, Udacity.
+- A: Coursera，Edx, Udacity.
 
 Q: Coursera 上有门课，要什么基础？我学的会么？
-
-A: 这个去那个课程网页看，不管什么基础，你注册，听课看看再说。课程的论坛
+- A: 这个去那个课程网页看，不管什么基础，你注册，听课看看再说。课程的论坛
 会有详细的说明。那里的同学会给出更详细的说明。
 
 Q: 该上免费版，还是付费版。
-A: 我没有上过付费的，所以不好说。
+- A: 我没有上过付费的，所以不好说。
 
 
 
 
 
+* 声明
+
+以上多是根据我个人经验整理，欢迎补充。部分问题是源于版友给我的站内信，在此表
+示感谢。
+
+另外，mitbbs是老站，很多功能不好，请大家提问前多看旧帖。
 
 除非是涉及隐私的问题，站内信我如果没有回答过类似的问题，我会贴到FAQ。当然不
 会把你的id 贴出来。所以，发信之前要考虑这一点。
