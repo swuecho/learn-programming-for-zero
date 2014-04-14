@@ -103,18 +103,20 @@ Q:我该学那个语言好？
 A：Python。
 
 Q：我听说过很多语言，人家不都是学C，C++，java 么？
+
 A： 如果你觉得好，就去学好了。争哪个语言好，可以争个半年。你不确定，就Python．
 
-Ｑ：我是不是该学C++？
+Q：我是不是该学C++？
+
 A：不要再问我任何语言选择的问题！
 
 
 Q： 我学Python，也想上online 课程，有没有推荐？
-A：coursera 上的intro to computer science 之类的课程。这类课程一般是cs 的入
-门课，也就是说正常的高中毕业生都应该能跟的上。
+
+A：coursera 上的intro to computer science 之类的课程。这类课程一般是cs 的入门课，也就是说正常的高中毕业生都应该能跟的上。
 
 
-Q ：我听说两本关于Python的书，A 和B， 哪个好？该看哪一本？
+Q：我听说两本关于Python的书，A 和B， 哪个好？该看哪一本？
 Ａ：amazon 看书评就知道哪个好了。两本都要看。一般说来，我不犹豫哪个书好，反
 正就那么点东西。就好比，一个橘子和一个苹果，吃哪一个好呢？都吃。
 
@@ -123,9 +125,11 @@ Q ：我听说两本关于Python的书，A 和B， 哪个好？该看哪一本�
 
 
 Q：我想上个master，上哪个好？
+
 A： 我知道的有三个选择，Geogia Tech 的online cs， ITU，还有个East ．．待补充。
 
 Q:  Geogia Tech online cs?
+
 A: http://www.omscs.gatech.edu/
 这个项目不要G，要T，没有硬性的prequisite 的课程要求，但是需要你有相关背景。
 据我个人观察，比一般的州立大学要求略低，但也不是你交钱就上。
