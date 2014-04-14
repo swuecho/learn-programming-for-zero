@@ -99,6 +99,7 @@ God gives every bird its food, but He does not throw it into its nest.
 
 
 Q:我该学那个语言好？
+
 A：Python。
 
 Q：我听说过很多语言，人家不都是学C，C++，java 么？
