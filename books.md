@@ -4,19 +4,13 @@
 
 ### Python
 
-__Think Python__
+__Learning Python__
 
-### Php
-
-not sure
 
 ### Javascript
 
 __Javascript the missing manual__
 
-### Perl
-
-__Learning Perl__
 
 ## Database
 
@@ -28,7 +22,7 @@ this is enough to begin with and then learn by using.
 
 if you want more,
 
-__Learning Bash__ is a good book
+__Learning the Bash Shell__ is a good book
 
 
 ## Web specific
